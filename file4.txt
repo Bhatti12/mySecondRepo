@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is some content to mess up with later
 This is a bug fix
 New line in here to file4.txt
+=======
+This is some woodo stuff right here my man
+>>>>>>> newfreature
